@@ -1,1 +1,1 @@
-# command-line-tictactoe
+Play this game by typing npm start into the command line. 
